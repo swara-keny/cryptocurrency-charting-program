@@ -17,3 +17,4 @@ Technical Analysis Tools: Perform deeper analysis using popular indicators such 
 Search Functionality: Easily find and display price data of different cryptocurrencies from multiple exchanges.
 
 Hands-On Experience: Demonstrates the use of real-time data handling and user interaction in financial applications.
+There are still many features in this GUI that might not be proper.
